@@ -1,0 +1,65 @@
+*{
+    margin:0px;
+    padding: 0px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+body{
+    width: 100%;
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(https://imgs.search.brave.com/xBkNbz4-JPGUEAvZdOFHSE8ZtL2yN8Qw22d99HYMKMk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/YWRvcmFtYS5jb20v/YWxjL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDIxLzA0L3Bob3Rv/Z3JhcGh5LWNhbWVy/YS10eXBlcy1mZWF0/dXJlLmpwZw);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+ul{
+    float: right;
+    list-style-type: none;
+    margin-top: 30px;
+    min-height: 400px;
+    margin-right: 60px;
+    font-size: 16px;
+}
+ul li{
+    display: inline-block;    
+}
+ul li a{
+    text-decoration: none;
+    color: rgb(4, 174, 252);
+    padding: 5px 20px;
+    border: 1px solid transparent;
+    transition: 0.6 ease;
+}
+ul li a:hover{
+    background-color: rgb(0, 151, 251);
+    color: black;
+}
+.title{
+    position: absolute;
+    top: 46%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+ h1{
+    color: rgb(246, 247, 249);
+    font-size: 12px;
+}
+h2{
+    color: antiquewhite;
+    font-size: 12px;
+}
+section.container{
+    display: flex;
+    align-content: flex-start;
+    
+    
+
+}
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 16px;
+    border: 3px solid #294557;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+    margin: 10px 0;
+}
