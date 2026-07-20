@@ -21,3 +21,10 @@ This is my personal website showcasing my photograph of my projects and upcoming
     create a branch: git chekout -b index.html
 
     open visualstudio: code .
+
+    git add .
+
+    git commit -m"update changes"
+
+    git push origin main
+    
