@@ -78,7 +78,7 @@ footer{
     margin-top: 32px;
     font-size: 15px;
  }
-.title{
+.title h5{
     position: absolute;
     top: 46%;
     left: 50%;
@@ -87,4 +87,5 @@ footer{
  h5{
     color: rgb(246, 247, 249);
     font-size: 24px;
+     font:family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
