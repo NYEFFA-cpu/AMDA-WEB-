@@ -84,7 +84,7 @@ footer{
     left: 50%;
     transform: translate(-50%, -50%);
 }
-.title p{
+.title h6{
     color: rgb(246, 247, 249);
     font-size: 24px;
 }
