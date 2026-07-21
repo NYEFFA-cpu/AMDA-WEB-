@@ -66,3 +66,17 @@ h3{
     display: inline
     
 }
+p{
+    margin-bottom:15px;
+    font-size: 16px:
+    
+}
+footer{
+    background-color: #003366;
+    color: aliceblue;
+    text-align: center;
+    padding: 19px;
+    border-radius: 30px;
+    margin-top: 40px;
+    font-size: 15px;
+ }
