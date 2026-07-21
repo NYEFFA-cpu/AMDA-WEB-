@@ -78,3 +78,13 @@ footer{
     margin-top: 32px;
     font-size: 15px;
  }
+.title{
+    position: absolute;
+    top: 46%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.title p{
+    color: rgb(246, 247, 249);
+    font-size: 70px;
+}
